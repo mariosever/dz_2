@@ -1,0 +1,41 @@
+
+h1 {
+    color: blue;
+}
+
+p {
+    font-size: 24px;
+}
+
+#red {
+    color: red;
+}
+
+#orange {
+    color: orange;
+}
+
+.important {
+    font-weight: bold;
+    color: red;
+    text-decoration: underline;
+}
+
+.bigtext {
+    text-transform: uppercase;
+}
+
+.image {
+    border: 6px solid black;
+    margin-top: 90px;
+    margin-left: 250px;
+}
+
+.image:hover {
+    border: 6px solid red;
+}
+
+h1 {
+    background: yellow;
+    padding: 10px 10px 60px 40px;
+}
